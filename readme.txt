@@ -4,3 +4,5 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 add by leison for git test 201603041457
 this is friday
+
+git remote github 20160304 
